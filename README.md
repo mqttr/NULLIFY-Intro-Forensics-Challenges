@@ -3,5 +3,5 @@ Basic forensic challenges (mostly) made by yours truly!
 
 ## Recommended Challenge Difficulty Progression (Easiest to Hardest)
 1. what_are_files
-2. metadata
-
+2. what_are_files_2
+3. metadata
